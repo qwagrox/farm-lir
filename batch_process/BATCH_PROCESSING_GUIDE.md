@@ -463,10 +463,3 @@ if __name__ == '__main__':
 
 ---
 
-## 📞 技术支持
-
-如有问题，请参考：
-- `batch_processing.py` - 完整的批量处理模块
-- `VERTEX_INPUT_GUIDE.md` - 顶点输入详细指南
-- GitHub Issues - 提交问题和建议
-
